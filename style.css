@@ -1,0 +1,13 @@
+body {
+display: flex;
+flex: auto;
+}
+
+.row{
+	display: flex;
+	overflow: auto;
+}
+
+img{
+	max-width: 100%;
+}
